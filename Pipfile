@@ -1,0 +1,18 @@
+[[source]]
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+name = "aliyun"
+
+[packages]
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+pandas = "*"
+sympy = "*"
+ipython = "*"
+jupyter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
