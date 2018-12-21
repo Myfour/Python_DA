@@ -11,6 +11,8 @@ pandas = "*"
 sympy = "*"
 ipython = "*"
 jupyter = "*"
+scikit-learn = "*"
+h5py = "*"
 
 [dev-packages]
 
